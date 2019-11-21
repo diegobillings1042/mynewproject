@@ -1,1 +1,2 @@
-print("Coding is easy!") 
+print("Coding is easy!")
+print("I love coding")
